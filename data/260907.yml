@@ -5,7 +5,7 @@ about:
   head: d5614e0
   archived: true
   latestVersion: "v0.9.23"
-  collectedAt: 2026-09-07T04:56:42Z
+  collectedAt: 2026-09-07T19:26:00Z
 timeline:
   created: 2017-11-10
   lastCommit: 2026-06-26
@@ -86,7 +86,7 @@ total:
   commit: 20985
 ---
 path: /home/runner/.x-repo/github.com/facebook/pyre-check
-collectedAt: 2026-09-07T04:58:00Z
+collectedAt: 2026-09-07T19:27:26Z
 loc:
   OCaml:
     code: 322650
@@ -283,7 +283,7 @@ checks:
       - 'Info:   0 out of   6 pipCommand dependencies pinned'
 ---
 eget:
-  collectedAt: 2026-09-07T04:58:01+00:00
+  collectedAt: 2026-09-07T19:27:28+00:00
   platform:
     darwin/arm64:
       name:  null
