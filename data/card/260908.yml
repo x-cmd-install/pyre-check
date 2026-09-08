@@ -5,7 +5,7 @@ about:
   head: d5614e0
   archived: true
   latestVersion: "v0.9.23"
-  collectedAt: 2026-09-08T02:25:24Z
+  collectedAt: 2026-09-08T05:08:01Z
 timeline:
   created: 2017-11-10
   lastCommit: 2026-06-26
@@ -86,7 +86,7 @@ total:
   commit: 20985
 ---
 path: /home/runner/.x-repo/github.com/facebook/pyre-check
-collectedAt: 2026-09-08T02:26:48Z
+collectedAt: 2026-09-08T05:09:33Z
 loc:
   OCaml:
     code: 322650
