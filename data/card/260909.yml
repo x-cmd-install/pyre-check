@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.9.23"
   latestRelease: "v0.9.23"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:06:23Z
+  collectedAt: 2026-09-09T19:25:36Z
 timeline:
   created: 2017-11-10
   lastCommit: 2026-06-26
@@ -90,7 +90,7 @@ total:
   commit: 20985
 ---
 path: /home/runner/.x-repo/github.com/facebook/pyre-check
-collectedAt: 2026-09-09T05:07:45Z
+collectedAt: 2026-09-09T19:27:05Z
 loc:
   OCaml:
     code: 322650
