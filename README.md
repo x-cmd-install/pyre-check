@@ -14,6 +14,28 @@ Performant type-checking for python.
 x install pyre-check
 ```
 
+## Code insight
+
+Total: **613,446** lines of code across **1506** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| OCaml | 322,650 | 21,739 | 30,489 | 906 |
+| C | 201,870 | 62,433 | 15,781 | 38 |
+| Python | 69,992 | 4,114 | 14,530 | 492 |
+| CHeader | 7,216 | 15,608 | 1,784 | 46 |
+| Json | 5,587 | 0 | 0 | 24 |
+
+## OpenSSF Scorecard
+
+Overall score: **4.9 / 10**
+
+Lowest-scoring checks:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Maintained** (0/10) — project is archived
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
 ## Source
 
 - **Upstream**: <https://github.com/facebook/pyre-check>
@@ -38,30 +60,11 @@ x install pyre-check
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 30 |
+| last180d | 2026-03-14 | 0 | 0 | 12 | 0 | 1 | 239 |
 | 360d | 2025-09-15 | 0 | 0 | 17 | 2 | 3 | 686 |
-
-## Code size
-
-Total: **613,446** lines of code across **1506** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| OCaml | 322,650 | 21,739 | 30,489 | 906 |
-| C | 201,870 | 62,433 | 15,781 | 38 |
-| Python | 69,992 | 4,114 | 14,530 | 492 |
-| CHeader | 7,216 | 15,608 | 1,784 | 46 |
-| Json | 5,587 | 0 | 0 | 24 |
-
-## OpenSSF Scorecard
-
-Overall score: **4.9 / 10**
-
-Lowest-scoring checks:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Maintained** (0/10) — project is archived
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+| last720d | 2024-09-20 | 1 | 3 | 19 | 11 | 18 | 4222 |
 
 ## Improve this data
 
@@ -72,4 +75,4 @@ Install metadata for pyre-check lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T17:00:13Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:58:45Z._
