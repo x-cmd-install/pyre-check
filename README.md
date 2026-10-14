@@ -49,7 +49,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,171 · **Forks**: 450 · **Open issues**: 443 · **Contributors**: 186
+- **Stars**: 7,173 · **Forks**: 450 · **Open issues**: 443 · **Contributors**: 186
 
 ## Totals (cumulative)
 
@@ -59,12 +59,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-16 | 0 | 0 | 6 | 0 | 0 | 149 |
-| 360d | 2025-10-18 | 0 | 0 | 17 | 2 | 1 | 623 |
-| last720d | 2024-10-23 | 1 | 3 | 18 | 9 | 17 | 4062 |
+| 30d | 2026-09-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-17 | 0 | 0 | 6 | 0 | 0 | 149 |
+| 360d | 2025-10-19 | 0 | 0 | 17 | 2 | 1 | 623 |
+| last720d | 2024-10-24 | 1 | 3 | 18 | 9 | 17 | 4061 |
 
 ## Improve this data
 
@@ -75,4 +75,4 @@ Install metadata for pyre-check lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:25:29Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:13:59Z._
