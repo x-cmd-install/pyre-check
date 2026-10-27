@@ -32,8 +32,8 @@ x install pyre-check
 
 评分最低的几项:
 
-- **Maintained** (0/10) — project is archived
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Maintained** (0/10) — project is archived
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -59,12 +59,12 @@ x install pyre-check
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-29 | 0 | 0 | 6 | 0 | 0 | 125 |
-| 360d | 2025-10-31 | 0 | 0 | 17 | 2 | 1 | 602 |
-| last720d | 2024-11-05 | 0 | 3 | 18 | 9 | 17 | 3997 |
+| 30d | 2026-09-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-29 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-30 | 0 | 0 | 6 | 0 | 0 | 125 |
+| 360d | 2025-11-01 | 0 | 0 | 17 | 2 | 1 | 602 |
+| last720d | 2024-11-06 | 0 | 3 | 18 | 9 | 17 | 3992 |
 
 ## 改进这些数据
 
@@ -75,4 +75,4 @@ pyre-check 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261026.yml` · 2026-10-26T05:04:04Z._
+_数据快照: `data/card/261027.yml` · 2026-10-27T05:24:13Z._
