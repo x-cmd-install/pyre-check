@@ -32,9 +32,9 @@ Overall score: **4.9 / 10**
 
 Lowest-scoring checks:
 
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Maintained** (0/10) — project is archived
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -59,12 +59,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-09 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-10 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-10 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-10 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-19 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -75,4 +75,4 @@ Install metadata for pyre-check lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:41:13Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T06:51:59Z._
